@@ -1,0 +1,8 @@
+@font-face {
+	font-family:'HanHei SC';
+	font-style:normal;
+	font-weight:300;
+	src:local('☺︎'), url("../fonts/HanHei-SC-thin.woff") format("woff"), url("../fonts/HanHei-SC-thin.ttf") format("truetype");
+	/* Copyright © 2015 Apple Inc. All rights reserved. */
+}
+
